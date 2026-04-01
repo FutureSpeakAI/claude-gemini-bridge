@@ -1,0 +1,29 @@
+{
+  "name": "@asimov-federation/claude-gemini-bridge",
+  "version": "1.0.0",
+  "description": "Bridge Gemini Live voice to Claude Code intelligence. Voice goes through Gemini, reasoning goes through Claude, governed by Asimov's cLaws.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./gemini-tools": "./gemini-tools.js"
+  },
+  "scripts": {
+    "test": "node --test test.js",
+    "example": "node server.js"
+  },
+  "keywords": [
+    "gemini",
+    "claude",
+    "voice",
+    "bridge",
+    "ai-assistant",
+    "asimov",
+    "claw"
+  ],
+  "author": "FutureSpeak.AI",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
