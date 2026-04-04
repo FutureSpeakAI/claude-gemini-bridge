@@ -1,5 +1,5 @@
 {
-  "name": "@asimov-federation/claude-gemini-bridge",
+  "name": "@futurespeak-ai/claude-gemini-bridge",
   "version": "1.0.0",
   "description": "Bridge Gemini Live voice to Claude Code intelligence. Voice goes through Gemini, reasoning goes through Claude, governed by Asimov's cLaws.",
   "type": "module",
