@@ -1,3 +1,5 @@
+> **This project now lives on in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday), archived 2026-10-11.**
+
 # Claude-Gemini Bridge
 
 **Use Gemini for voice. Use Claude for intelligence. Together, they're Agent Friday.**
